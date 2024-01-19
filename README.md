@@ -17,8 +17,11 @@ Express Billing: Speed up the billing process with an express checkout feature, 
 
 
 #Technologies Used.
- 1HTML.
+
+ HTML.
+ 
  CSS.
+ 
  JavaScript.
 
 
