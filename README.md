@@ -16,5 +16,9 @@ Express Billing: Speed up the billing process with an express checkout feature, 
 
 ![Screenshot 2024-01-19 134254](https://github.com/likithkumar03/SmartRetailBilling/assets/99890928/4c9ae3a6-e874-4c1e-b231-cd8f22a80e9c)
 
+![Screenshot 2024-01-19 134600](https://github.com/likithkumar03/SmartRetailBilling/assets/99890928/e20d9d86-6bca-4d27-a120-95418cddc78d)
+
+
+
 
 
